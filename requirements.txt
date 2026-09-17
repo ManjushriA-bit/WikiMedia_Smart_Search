@@ -1,5 +1,0 @@
-pandas
-numpy
-scikit-learn
-pyarrow
-kagglehub[pandas-datasets]
