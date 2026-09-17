@@ -99,11 +99,11 @@ WikiMedia_Smart_Search/
 
 ## 📌 Challenge Requirements Covered
 
-The official Challenge 1 requirements ask the application to allow topic search/selection, retrieve an article from the dataset, generate questions using article information, include MCQ and/or True/False questions, accept and check answers, calculate a score, and display the final result. This repository follows that Challenge 1 flow. fileciteturn110file0L45-L87
+Challenge 1 requires topic search/selection, article retrieval from the dataset, question generation from article information, MCQ and/or True/False questions, answer submission and checking, score calculation, and a final result. This repository is organized around those requirements.
 
 ## 🌱 Optional Extensions
 
-The challenge document lists difficulty levels, timers, random questions, score history, leaderboards, answer explanations, quiz categories, multiple rounds and AI-assisted question generation as possible extensions. fileciteturn110file0L88-L99
+Possible extensions include difficulty levels, a timer, random questions, score history, a leaderboard, answer explanations, quiz categories, multiple quiz rounds and AI-assisted question generation.
 
 ## 📌 Status
 
